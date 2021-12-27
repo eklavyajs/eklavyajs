@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eklavyajs
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 Reach me at twitter @eklavyajs
+- 👋 Hi, I’m Eklavya Sharma.
+- 👀 I’m interested in Web Technologies.
+- 🌱 I’m currently learning Blockchain.
+- 💞️ I’m looking to collaborate on Web Development Projects.
+- 📫 Reach me at twitter @eklavyajs.
 
 <!---
 eklavyajs/eklavyajs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
